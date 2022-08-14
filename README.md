@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose of this analysis is to see how other Kickstarter campaigns in the "play" subcategory fared in relation to the launch date and funding goals.
+### Purpose of this analysis is to see how Kickstarter campaigns in the "play" subcategory fared in relation to the launch date and funding goals.
 
 ## Analysis and Challenges
 
